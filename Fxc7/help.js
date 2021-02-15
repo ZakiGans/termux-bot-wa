@@ -2,7 +2,7 @@
 const help = (prefix, instagram, yt, name, pushname2, user, limitt, uptime, jam, tanggal) => { 
 	return `
 	
-\`\`\`Bukan Bot\`\`\`
+\`\`\`Github Me https://github.com/ZakiGans\`\`\`
 
 
 \`\`\`Owmer:wa.me/083144780782\`\`\`
