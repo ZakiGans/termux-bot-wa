@@ -1,4 +1,4 @@
-### I'm FXC7BOT Gift Me Stars 🌟 <br><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
+### I'm ZakiGans Gift Me Stars 🌟 src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="20px">
 <p align="center">
 <a href="https://github.com/Fxc7"><img src="https://raw.githubusercontent.com/Fxc7/termux-bot-wa/main/src/glitchtext.png"></a>
 </p>
@@ -13,17 +13,7 @@
 <a href="https://github.com/Fxc7"><img title="Author" src="https://img.shields.io/badge/AUTHOR-FARHAN-orange?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Fxc7/termux-bot-wa/followers"><img title="Followers" src="https://img.shields.io/github/followers/Fxc7?style=flat-square"></a>
-<a href="https://github.com/Fxc7/termux-bot-wa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fxc7/termux-bot-wa?style=flat-square"></a>
-<a href="https://github.com/Fxc7/termux-bot-wa/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/FarhanXCode7/termux-bot-wa?style=flat-square"></a>
 
-</p>
-
-
-## Donasi yaa:)
-
-* [Saweria](https://saweria.co/FarhanXCo)
-* [Trakteer](https://trakteer.id/FarhanXCo)
 
 
 ## Tools
@@ -248,7 +238,7 @@ Follow The Steps Below!
 * Created Bot => [MhankBarBar](https://github.com/MhankBarBar)
 * [NURUTOMO](https://github.com/nurutomo)
 * [NazwaS](https://github.com/nazwaS)
-* [FXC7 OFFICIAL TEAM]
+* [MyBot OFFICIAL TEAM]
 
 
 
