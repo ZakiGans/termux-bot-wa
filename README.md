@@ -1,7 +1,101 @@
-### I'm ZakiGans Gift Me Stars 
-<a
+
+        *  Mau reupload script 
+        * Cantumkan nama saya
+### Kamex~ I'm Zaki<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="27px">
+<p align="center">
+
 </p>
 <br>
+
+
+
+<p align="center">
+<a href="#"><im ZakiGans" src="https://img.shields.io/badge/-BOT--WA--MR-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+</p>
+<p align="center">
+<a href="https://github.com/ZakiGans"><img title="Author" src="https://img.shields.io/badge/AUTHOR-ZAKIGANS-orange?style=for-the-badge&logo=github"></a>
+</p>
+<p align="center">
+    <a href="https://github.com/ZakiGans/followers"><img title="Followers" src="https://img.shields.io/github/followers/ZakiGans?style=flat-square"></a>
+    <a href="https://github.com/ZakiGans/termux-bot-wa/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/ZakiGans/termux-bot-wa?style=flat-square"></a>
+    <a href="https://github.com/ZakiGans/termux-bot-wa/network/members"><img title="Forks" src="https://img.shields.io/github/forks/ZakiGans/termux-bot-wa?style=flat-square"></a>
+    <a href="https://github.com/ZakiGans/termux-bot-wa/watchers"><img title="watchers" src="https://img.shields.io/github/watchers/ZakiGans/termux-bot-wa?style=flat-square"></a>
+    <a href="#"><img title="maintened" src="https://img.shields.io/badge/maintained%3F-yes-green.svg?style=flat"></a>
+    <a href="#"><img title="repo size" src="https://img.shields.io/github/repo-size/NazwaS/termux-whatsapp-bot?style=flat-square"></a>
+    <a href="https://www.codefactor.io/repository/github/nazwas/termux-bot-wa"><img src="https://www.codefactor.io/repository/github/ZakiGans/BOT-WA-MR/badge" alt="CodeFactor" /></a>
+</p>
+
+<p align="center">
+    <img src="https://media4.giphy.com/media/qLFKvOpoS1N7ts7xO8/giphy.gif">
+</p>
+<div align="center">
+<details>
+ <summary>🍙 Help me!</summary>
+| :--------------------:
+|Bukan Hasil Sendiri:)|
+| :--------------------:
+</details>
+</div>
+
+
+</p>
+
+## Tools
+
+```bash
+> Termux
+> WhatsApp
+> 2 HandPhone
+```
+
+## Install
+Follow The Steps Below!
+
+## For Termux
+```bash
+> termux-setup-storage
+(after that tap on permission)
+> apt install git -y
+> git clone https://github.com/ZakiGans/termux-bot-wa
+> cd termux-bot-wa
+> bash install.sh
+```
+
+### Starting Bot
+
+```bash
+> npm start/node index.js
+```
+
+### Stopping Bot
+
+```bash
+> Ctrl + Z
+
+## 120+ Features
+
+
+---
+
+<img src="http://4.bp.blogspot.com/-XFYyg7bmXe0/UIU9Lt2jaNI/AAAAAAAABw8/UgxWDUoBkaw/s1600/tumblr_mbi70xxizM1r922azo1_500_large.gif">
+
+---
+
+## Group
+* <a href="https://chat.whatsapp.com/C1qFWmPm8EVDfKAhAXDvpT"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+## Special Thanks To
+* Allah SWT
+
+
+
+
+## Group
+https://github.com/ZakiGans
+* <a href="https://chat.whatsapp.com/C1qFWmPm8EVDfKAhAXDvpT"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+---
+
 
 
 
@@ -20,6 +114,7 @@
 ```bash
 > Termux
 > WhatsApp
+
 > 2 HandPhone
 ```
 
@@ -39,184 +134,6 @@ Follow The Steps Below!
 > npm audit fix
 > npm start / node index.js
 ```
-
-## Features
-
-| NEW USER | YES
-| :---------------------------------------------: | :-----------: |
-|  Daftar|✅|
-
-|  CREATOR  |                                           YES |
-| :---------------------------------------------: | :-----------: |
-| Sticker Maker|✅|
-| Sticker Gif Maker|✅|
-| Convert Sticker To Image|✅|
-| Convert Video To MP3|✅|
-| Black Pink Logo Maker|✅|
-| 3D Text Maker|✅|
-| Glitch|✅|
-| Quote Maker|✅|
-| Water Maker|✅|
-| Fire Text Maker
-| Marvel Logo Maker|✅|
-| Snow Write Maker|✅|
-| Ninja Logo Maker|✅|
-| Logo Wolf Maker|✅|
-| And much more |✅|
-
-| MEDIA | YES |
-| :-----------------: | :-------: |
-| Trend Twit|✅|
-| YT Search|✅|
-| Wattpad Search|✅|
-
-| EDUCATION | YES |
-| :-----------------: | :-------: |
-| The Meaning Of The Name|✅|
-| Text To Sticker|✅|
-| Nulis Name/class/text|✅|
-| Quotes|✅|
-
-| DOWNLOADER | YES |
-| :-----------------: | :-------: |
-| Pinterest Downloader|✅|
-
-| MEME | YES |
-| :-----------------: | :-------: |
-| Meme|✅|
-| Meme Indo|✅|
-
-| GROUP | YES |
-| :-----------------: | :-------: |
-| Anti link|✅|
-| Open Group|✅|
-| Link Group|✅|
-| info Group|✅|
-| Close Group|✅|
-| Promote Member|✅|
-| Demote Member|✅|
-| Hide Tag|✅|
-| Tag All Members|✅|
-| Add Member|✅|
-| Kick Member|✅|
-| Show List Admins|✅|
-| Leave Group|✅|
-| Show Owner Group|✅|
-| welcome New Members|✅|
-| Nsfw|✅|
-
-| SOUND | YES |
-| :-----------------: | :-------: |
-| Text To Speach|✅|
-
-| MUSIC | YES |
-| :-----------------: | :-------: |
-| Music Lyrics|✅|
-| Chord Guitar|✅|
-
-| ISLAM | YES |
-| :-----------------: | :-------: |
-| Qur'an|✅|
-| Qur'an Surah 1,2,3 dll |✅|
-
-| STALK | YES |
-| :-----------------: | :-------: |
-| Instagram Stalk|✅|
-| Tiktok Stalk|✅|
-
-| WIBU | YES |
-| :-----------------: | :-------: |
-| Neonime|✅|
-| Pokemon|✅|
-| Nekonime|✅|
-| Shota|✅|
-| Kaneki|✅|
-| Touka chan|✅|
-| Naruto|✅|
-| Loli|✅|
-| Random Shota|✅|
-| Random Waifu|✅|
-| Random Anime|✅|
-| And much more|✅|
-
-| FUN | YES |
-| :-----------------: | :-------: |
-| Kucing|✅|
-| Anjing|✅|
-| Alay|✅|
-| hilih|✅|
-| Cek Ganteng|✅|
-| Cantik cek|✅|
-| Watak|✅|
-| Quotes bucin|✅|
-| Kata Cinta|✅|
-| Random Hobby|✅|
-| Search Image [optional]|✅|
-| Pinterest [Optional] |✅|
-| Truth Or Dare |✅|
-| Dark Jokes|✅|
-| Apakah|✅|
-| Kapankah|✅|
-| Bisakah|✅|
-| Rate|✅|
-
-| INFORMATION | YES |
-| :-----------------: | :-------: |
-| List Bahasa|✅|
-| Information Weather|✅|
-| KBBI|✅|
-| Fakta|✅|
-| Covid|✅|
-| Gempa Terkini|✅|
-
-| 18+ | YES |
-| :-----------------: | :-------: |
-| Random Hentai|✅|
-| NSFW Neko|✅|
-| NSFW Blowjob |✅|
-| NSFW Loli|✅|
-| NSFW Anime|✅|
-| Asupan|✅|
-
-| OWNER | YES |
-| :-----------------: | :-------: |
-| Add bucin|✅|
-| Set pp bot|✅|
-| Set Limit Harian|✅|
-| Set Limit Member Group|✅|
-| Set Reply Chat|✅|
-| add premium |✅|
-| Banned Member|✅|
-| Unbanned Member|✅|
-| Block Member|✅|
-| Unblock Member|✅|
-| remove premium |✅|
-| Set Prefix|✅|
-| Block Member|✅|
-| Broadcast|✅|
-| Group Broadcast|✅|
-| Clear All Chat|✅|
-| Bott aktif/nonaktif|✅|
-
-| PREMIUM MENU | YES |
-| :-----------------: | :-------: |
-| Youtube mp3 Download|✅|
-| Tiktok Downloader|✅|
-| Youtube mp4 Download|✅|
-| Joox|✅|
-| Facebook Video Download|✅|
-| Snack Video Download|✅|
-| Play Mp3|✅|
-
- TENTANG BOT | YES |
-| :-----------------: | :-------: |
-| info|✅|
-| Premium List|✅|
-| User list|✅|
-| Banned list|✅|
-| Block list|✅|
-
-
 ## Note
 
 * Dont Forget Stars
@@ -227,11 +144,7 @@ Follow The Steps Below!
 
 ## Special Thanks
 
-* [Adiwajshing Baileys](https://github.com/adiwajshing/baileys)
-* Created Bot => [MhankBarBar](https://github.com/MhankBarBar)
-* [NURUTOMO](https://github.com/nurutomo)
-* [NazwaS](https://github.com/nazwaS)
-* [MyBot OFFICIAL TEAM]
+* Allah SWT
 
 
 
