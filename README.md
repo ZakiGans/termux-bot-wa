@@ -56,12 +56,6 @@ Follow The Steps Below!
 > npm start/node index.js
 ```
 
-### Stopping Bot
-
-```bash
-> Ctrl + Z
-
-## 120+ Features
 
 
 ---
@@ -76,36 +70,9 @@ Follow The Steps Below!
 ## Special Thanks To
 * Allah SWT
 
-
-
-
 ## Group
 https://github.com/ZakiGans
 * <a href="https://chat.whatsapp.com/C1qFWmPm8EVDfKAhAXDvpT"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
----
-
-
-
-
-<p align="center">
-<a 
-</p>
-<p align="center">
-<a 
-</p>
-<p align="center">
-
-
-
-## Tools
-
-```bash
-> Termux
-> WhatsApp
-
-> 2 HandPhone
-```
 
 ## Install
 Follow The Steps Below!
@@ -123,14 +90,6 @@ Follow The Steps Below!
 > npm audit fix
 > npm start / node index.js
 ```
-## Note
-
-* Dont Forget Stars
-
-* |En| And You can add your own quotes
-* |Ind| Dan Kalian Bisa tambahkan Quotes Kalian
-
-
 ## Special Thanks
 
 * Allah SWT
