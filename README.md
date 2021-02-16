@@ -35,18 +35,7 @@
 |Bukan Hasil Sendiri:)|
 | :--------------------:
 </details>
-</div>
 
-
-</p>
-
-## Tools
-
-```bash
-> Termux
-> WhatsApp
-> 2 HandPhone
-```
 
 ## Install
 Follow The Steps Below!
