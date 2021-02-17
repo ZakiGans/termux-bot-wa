@@ -56,7 +56,7 @@ Follow The Steps Below!
 > npm start/node index.js
 ```
 
-https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif
+
 
 
 ---
