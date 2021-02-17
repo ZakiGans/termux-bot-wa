@@ -1,0 +1,44 @@
+const othermenu = (prefix) => { 
+	return `
+╭┈─────OTHERMENU
+╰─❁۪۪
+╰─➤ *${prefix}sticker*
+╰─➤ *${prefix}ttp [teks]*
+╰─➤ *${prefix}toimg [replay sticker]*
+╰─➤ *${prefix}neko*
+╰─➤ *${prefix}pokemon*
+╰─➤ *${prefix}inu*
+╰─➤ *${prefix}asupan [perbaikan]*
+╰─➤ *${prefix}pantun*
+╰─➤ *${prefix}dadu*
+╰─➤ *${prefix}quotes*
+╰─➤ *${prefix}thunder [teks]*
+╰─➤ *${prefix}nulis [teks]*
+╰─➤ *${prefix}ocr [gambar]*
+╰─➤ *${prefix}meme*
+╰─➤ *${prefix}memindo*
+╰─➤ *${prefix}testime*
+╰─➤ *${prefix}ttp [teks]*
+╰─➤ *${prefix}hobby*
+╰─➤ *${prefix}beritahoax*
+╰─➤ *${prefix}watak*
+╰─➤ *${prefix}jsholat [daerah]*
+╰─➤ *${prefix}bucin*
+╰─➤ *${prefix}hilih [teks]*
+╰─➤ *${prefix}cekjodoh* [nama]
+╰─➤ *${prefix}artinama* [hafidz]
+╰─➤ *${prefix}listsurah*
+╰─➤ *${prefix}zodiak [zodiak kamu]*
+╰─➤ *${prefix}listzodiak*
+╰─➤ *${prefix}baper*
+╰─➤ *${prefix}katakata*
+╭┈─────ANIMALS
+╰─❁۪۪
+╰─➤ *${prefix}unta*
+╰─➤ *${prefix}elang*
+╰─➤ *${prefix}anjing*
+╰─➤ *${prefix}kucing*
+╭┈─────FEEDZ BOT
+╰─❁۪۪`
+}
+exports.othermenu = othermenu

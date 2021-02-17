@@ -1,0 +1,40 @@
+const funmenu = (prefix) => { 
+	return `
+╭┈─────FUN MENU
+╰─❁۪۪
+╰─➤ *${prefix}tebakgambar*
+╰─➤ *${prefix}caklontong*
+╰─➤ *${prefix}family100*
+╰─➤ *${prefix}truth*
+╰─➤ *${prefix}dare*
+╰─➤ *${prefix}gantengcek*
+╰─➤ *${prefix}cantikcek*
+╰─➤ *${prefix}rate/nilai*
+╰─➤ *${prefix}fitnah [@tag pesan|pesan|]
+╰─➤ *${prefix}hilih*
+╰─➤ *${prefix}alay* [text]
+╰─➤ *${prefix}simi* [text]
+╰─➤ *${prefix}bucin*
+╰─➤ *${prefix}textstyle [text]*
+╰─➤ *${prefix}bpfont [text]*
+╰─➤ *${prefix}pale*
+╰─➤ *${prefix}iri*
+╰─➤ *${prefix}baka*
+╰─➤ *${prefix}sound*
+╰─➤ *${prefix}sound1*
+╰─➤ *${prefix}sound2*
+╰─➤ *${prefix}sound3*
+╰─➤ *${prefix}sound4*
+╰─➤ *${prefix}sound5*
+╰─➤ *${prefix}sound6*
+╰─➤ *${prefix}sound7*
+╰─➤ *${prefix}pantun*
+╰─➤ *${prefix}quotes*
+╰─➤ *${prefix}baper*
+╰─➤ *${prefix}bucin*
+╰─➤ *${prefix}tts*
+╰─➤ *${prefix}darkjokes*
+╭┈─────FEEDZ BOT
+╰─❁۪۪`
+}
+exports.funmenu = funmenu

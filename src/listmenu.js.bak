@@ -1,0 +1,333 @@
+const listmenu = (prefix) => { 
+	return `                 
+
+*╭┈─────OWNER MENU*
+╰─❁۪۪
+╰─➤ *${prefix}block 62858xxxxx*
+╰─➤ *${prefix}unblock 62858xxxxx*
+╰─➤ *${prefix}promote @tagmember*
+╰─➤ *${prefix}demote @tagadmin*
+╰─➤ *${prefix}bc*
+╰─➤ *${prefix}leave*
+╰─➤ *${prefix}bc2*
+╰─➤ *${prefix}leave*
+╰─➤ *${prefix}clearall*
+╰─➤ *${prefix}clone*
+╰─➤ *${prefix}hidetag*
+╰─➤ *${prefix}hidetag2*
+╰─➤ *${prefix}setprefix*
+╰─➤ *${prefix}unban*
+╰─➤ *${prefix}ban*
+╰─➤ *${prefix}runtime*
+╰─➤ *${prefix}turnoff*
+╰─➤ *${prefix}getses*
+╰─➤ *${prefix}kicktime*
+╰─➤ *${prefix}tutuptime*
+╰─➤ *${prefix}public*
+╠═══✪〘 *VIP MENU* 〙✪══
+║
+╰─➤ *${prefix}ytmp4 [link]*
+╰─➤ *${prefix}ytmp3 [link]*
+╰─➤ *${prefix}hidetag2*
+╰─➤ *${prefix}joox [lagu]*
+╰─➤ *${prefix}setprefix*
+╰─➤ *${prefix}tomp3 [replay video]*
+╰─➤ *${prefix}randomanime*
+╰─➤ *${prefix}randomhentai*
+╰─➤ *${prefix}nsfwloli*
+╰─➤ *${prefix}nsfwblowjob*
+╰─➤ *${prefix}nsfwneko*
+╰─➤ *${prefix}nsfwtrap*
+╰─➤ *${prefix}indohot*
+╰─➤ *${prefix}bokep*
+╰─➤ *${prefix}randombokep*
+╰─➤ *${prefix}pornhub*
+╰─➤ *${prefix}otagall2*
+╰─➤ *${prefix}otagall3*
+╰─➤ *${prefix}hidetag5*
+╰─➤ *${prefix}indo(1-25)*
+╰─➤ *CONTOH ${prefix}indo1*
+║
+╠══✪〘 *ADMIN MENU* 〙✪══
+║
+╰─➤ *${prefix}ban @tagmember*
+╰─➤ *${prefix}unban @tagmember*
+╰─➤ *${prefix}kickall*
+╰─➤ *${prefix}leave*
+╰─➤ *${prefix}promote*
+╰─➤ *${prefix}demote*
+╰─➤ *${prefix}delete*
+╰─➤ *${prefix}add 62813xxxxx*
+╰─➤ *${prefix}kickall*
+╰─➤ *${prefix}tagall*
+╰─➤ *${prefix}otagall*
+╰─➤ *${prefix}otagall2*
+╰─➤ *${prefix}tagall*
+╰─➤ *${prefix}setdesc*
+╰─➤ *${prefix}setname*
+╰─➤ *${prefix}kick* [tag]
+╰─➤ *${prefix}add* [628xxx]
+╰─➤ *${prefix}promote* [tag]
+╰─➤ *${prefix}demote* [tag]
+╰─➤ *${prefix}group* [buka]
+╰─➤ *${prefix}group* [tutup]
+╰─➤ *${prefix}linkgc*
+╰─➤ *${prefix}setpp* [foto kau]
+╰─➤ *${prefix}groupinfo*
+╰─➤ *${prefix}tagme*
+╰─➤ *${prefix}nsfw* [1/0]
+╰─➤ *${prefix}anime* [1/0]
+╰─➤ *${prefix}simih* [1/0]
+╰─➤ *${prefix}welcome* [1/0]
+╰─➤ *${prefix}edotensei*
+╰─➤ *${prefix}listadmins*
+╰─➤ *${prefix}ping*
+╰─➤ *${prefix}kicktime*
+╰─➤ *${prefix}tutuptime*
+╰─➤ *${prefix}antilinkgroup*
+╰─➤ *${prefix}headshot*
+║
+╠══✪〘 *MEDIA MENU* 〙✪══
+║
+╰─➤ *${prefix}fb* [link]
+╰─➤ *${prefix}tiktok* [link]
+╰─➤ *${prefix}jadwalTV* [channel]
+╰─➤ *${prefix}lirik* [judul lagu]
+╰─➤ *${prefix}chord* [judul lagu]
+╰─➤ *${prefix}randomkpop*
+╰─➤ *${prefix}tiktokstalk* [username]
+╰─➤ *${prefix}url2img* [link]
+╰─➤ *${prefix}fototiktok* [username]
+╰─➤ *${prefix}map* [kota]
+╰─➤ *${prefix}kbbi* [kamus]
+╰─➤ *${prefix}brainly* [tau sendiri kan]
+╰─➤ *${prefix}infoghitub* 
+╰─➤ *${prefix}play*
+╰─➤ *${prefix}playmp3*
+╰─➤ *${prefix}infogempa*
+╰─➤ *${prefix}artinama [nama]*
+╰─➤ *${prefix}covid [negara]*
+╰─➤ *${prefix}nulis [teks]*
+╰─➤ *${prefix}happymod [apk]*
+╰─➤ *${prefix}quotemaker [|teks|author|theme]*
+╰─➤ *${prefix}resepmasakan [optional]*
+╰─➤ *${prefix}tts [kode bhs] [teks]*
+╰─➤ *${prefix}igstalk [@username]*
+╰─➤ *${prefix}tiktokstalk [username]*
+╰─➤ *${prefix}wiki [query]*
+╰─➤ *${prefix}qrcode [optional]*
+╰─➤ *${prefix}map [optional]*
+╰─➤ *${prefix}instaimg [url]*
+╰─➤ *${prefix}ssweb [linkWeb]*
+╰─➤ *${prefix}shorturl [linkWeb]*
+╰─➤ *${prefix}instavid [url]*
+╰─➤ *${prefix}modapk*
+╰─➤ *${prefix}apkmod*
+╰─➤ *${prefix}animesaran*
+╰─➤ *${prefix}randombokep*
+╰─➤ *${prefix}bokep*
+╰─➤ *${prefix}pornhub [query]*
+║
+╠══✪〘 *MAKER MENU* 〙✪══[MAINTENANCE!]
+║
+╰─➤ *${prefix}tahta* [maslent]
+╰─➤ *${prefix}logo* [maslent]
+╰─➤ *${prefix}goldbutton* [maslent]
+╰─➤ *${prefix}silverbutton* [maslent]
+╰─➤ *${prefix}pronlogo* [text|text]
+╰─➤ *${prefix}snow* [text|text]
+╰─➤ *${prefix}marvelogo* [text|text]
+╰─➤ *${prefix}text3d* [text]
+╰─➤ *${prefix}ninjalogo* [text|text]
+╰─➤ *${prefix}wolflogo* [text|text]
+╰─➤ *${prefix}lionlogo* [text|text]
+╰─➤ *${prefix}textscreen* [text
+╰─➤ *${prefix}rtext* [text]
+╰─➤ *${prefix}party* [text]
+╰─➤ *${prefix}light* [text]
+╰─➤ *${prefix}shadow* [text]
+╰─➤ *${prefix}minion* [text]
+╰─➤ *${prefix}neon* [text]
+╰─➤ *${prefix}neongreen* [text]
+╰─➤ *${prefix}neon2* [text]
+╰─➤ *${prefix}3d* [text]
+╰─➤ *${prefix}blackpink* [text]
+╰─➤ *${prefix}sandwriting* [text]
+╰─➤ *${prefix}water* [text]
+╰─➤ *${prefix}thunder* [text]
+╰─➤ *${prefix}stiltext* [text|text]
+╰─➤ *${prefix}party* [text]
+╰─➤ *${prefix}galaxtext* [text]
+╰─➤ *${prefix}lovemake* [text]
+╰─➤ *${prefix}walpaperhd* [text]
+╰─➤ *${prefix}fire* [text]
+╰─➤ *${prefix}quotemaker* [tx|tx|random]
+╰─➤ *${prefix}water* [text]
+╰─➤ *${prefix}epep* [text]
+╰─➤ *${prefix}glitch* [text]
+╰─➤ *${prefix}jokerlogo [teks]*
+╠═══✪〘 *FUN MENU* 〙✪══
+║
+╰─➤ *${prefix}tebakgambar*
+╰─➤ *${prefix}caklontong*
+╰─➤ *${prefix}family100*
+╰─➤ *${prefix}truth*
+╰─➤ *${prefix}dare*
+╰─➤ *${prefix}gantengcek*
+╰─➤ *${prefix}cantikcek*
+╰─➤ *${prefix}rate/nilai*
+╰─➤ *${prefix}fitnah [@tag pesan|pesan|]
+╰─➤ *${prefix}hilih*
+╰─➤ *${prefix}alay* [text]
+╰─➤ *${prefix}simi* [text]
+╰─➤ *${prefix}bucin*
+╰─➤ *${prefix}textstyle [text]*
+╰─➤ *${prefix}bpfont [text]*
+╰─➤ *${prefix}pale*
+╰─➤ *${prefix}iri*
+╰─➤ *${prefix}baka*
+╰─➤ *${prefix}sound*
+╰─➤ *${prefix}sound1*
+╰─➤ *${prefix}sound2*
+╰─➤ *${prefix}sound3*
+╰─➤ *${prefix}sound4*
+╰─➤ *${prefix}sound5*
+╰─➤ *${prefix}sound6*
+╰─➤ *${prefix}sound7*
+╰─➤ *${prefix}pantun*
+╰─➤ *${prefix}quotes*
+╰─➤ *${prefix}baper*
+╰─➤ *${prefix}tts*
+╰─➤ *${prefix}darkjokes*
+║
+╠══✪〘 *ANIME MENU* 〙✪══
+║
+╰─➤ *${prefix}randomanime*
+╰─➤ *${prefix}waifu*
+╰─➤ *${prefix}waifu2*
+╰─➤ *${prefix}nekonime*
+╰─➤ *${prefix}wibu*
+╰─➤ *${prefix}wait*
+╰─➤ *${prefix}inu*
+╰─➤ *${prefix}pokemon*
+╰─➤ *${prefix}naruto*
+╰─➤ *${prefix}hinata*
+╰─➤ *${prefix}sasuke*
+╰─➤ *${prefix}sakura*
+╰─➤ *${prefix}boruto*
+╰─➤ *${prefix}minato*
+╰─➤ *${prefix}loli*
+╰─➤ *${prefix}loli2*
+╰─➤ *${prefix}rize*
+╰─➤ *${prefix}akira*
+╰─➤ *${prefix}itori*
+╰─➤ *${prefix}kurumi*
+╰─➤ *${prefix}miku*
+║
+╠══✪〘 *NSFW MENU* 〙✪══
+║
+╰─➤ *${prefix}randomhentai*
+╰─➤ *${prefix}hentai*
+╰─➤ *${prefix}nsfwblowjob*
+╰─➤ *${prefix}nsfwtrap*
+╰─➤ *${prefix}nsfwneko*
+╰─➤ *${prefix}loli*
+╰─➤ *${prefix}nsfwloli*
+╰─➤ *${prefix}bokep*
+╰─➤ *${prefix}kodenuklir2*
+╰─➤ *${prefix}randomanime*
+╰─➤ *${prefix}cry*
+╰─➤ *${prefix}kiss*
+╰─➤ *${prefix}randomhug*
+╰─➤ *${prefix}hunti*
+╰─➤ *${prefix}waifu*
+╰─➤ *${prefix}waifu2*
+╰─➤ *${prefix}kodenuklir*
+╰─➤ *${prefix}nekopoi*
+╠═══✪〘 *KERANG MENU* 〙✪══
+║
+╰─➤ *${prefix}apakah [optional]*
+╰─➤ *${prefix}rate [optional]*
+╰─➤ *${prefix}bisakah [optional]*
+╰─➤ *${prefix}kapankah [optional]*
+╰─➤ *${prefix}gantengcek*
+╰─➤ *${prefix}toxic*
+╰─➤ *${prefix}cantikcek*
+╰─➤ *${prefix}persengay*
+╠═══✪〘 *WIBU* 〙✪══ [MAINTENANCE!]
+║
+├ *${prefix}animesaran*
+├ *${prefix}kiss*
+├ *${prefix}peluk*
+├ *${prefix}randomcry*
+├ *${prefix}randomanime*
+├ *${prefix}waifu*
+├ *${prefix}waifu2*
+├ *${prefix}nakonime*
+├ *${prefix}nekonime2*
+├ *${prefix}wait*
+├ *${prefix}wibu*
+├ *${prefix}pokemon*
+├ *${prefix}naruto*
+├ *${prefix}hinata*
+├ *${prefix}sasuke*
+├ *${prefix}sakura*
+├ *${prefix}boruto*
+├ *${prefix}minato*
+├ *${prefix}loli*
+├ *${prefix}loli2*
+├ *${prefix}rize*
+├ *${prefix}akira*
+├ *${prefix}itori*
+├ *${prefix}kurumi*
+└ *${prefix}miku*
+║
+╠══✪〘 *OTHER MENU* 〙✪══
+║
+╰─➤ *${prefix}sticker*
+╰─➤ *${prefix}ttp [teks]*
+╰─➤ *${prefix}toimg [replay sticker]*
+╰─➤ *${prefix}neko*
+╰─➤ *${prefix}pokemon*
+╰─➤ *${prefix}inu*
+╰─➤ *${prefix}asupan [perbaikan]*
+╰─➤ *${prefix}pantun*
+╰─➤ *${prefix}dadu*
+╰─➤ *${prefix}quotes*
+╰─➤ *${prefix}thunder [teks]*
+╰─➤ *${prefix}nulis [teks]*
+╰─➤ *${prefix}ocr [gambar]*
+╰─➤ *${prefix}meme*
+╰─➤ *${prefix}memindo*
+╰─➤ *${prefix}testime*
+╰─➤ *${prefix}ttp [teks]*
+╰─➤ *${prefix}hobby*
+╰─➤ *${prefix}beritahoax*
+╰─➤ *${prefix}infocuaca [daerah]*
+╰─➤ *${prefix}watak*
+╰─➤ *${prefix}jsholat [daerah]*
+╰─➤ *${prefix}bucin*
+╰─➤ *${prefix}hilih [teks]*
+╰─➤ *${prefix}cekjodoh* [nama]
+╰─➤ *${prefix}artinama* [hafidz]
+╰─➤ *${prefix}listsurah*
+╰─➤ *${prefix}zodiak [zodiak kamu]*
+╰─➤ *${prefix}listzodiak*
+╰─➤ *${prefix}baper*
+╰─➤ *${prefix}katakata*
+╰─➤ *${prefix}randomkpop*
+╠═══✪〘 *ANIMALS* 〙✪══
+║۪۪
+╰─➤ *${prefix}unta*
+╰─➤ *${prefix}elang*
+╰─➤ *${prefix}anjing*
+╰─➤ *${prefix}kucing*
+║
+╚═ Ketik *${prefix}info* untuk melihat list informasi tentang bot
+       Ketik *${prefix}owner* untuk melihat kontak owner
+         Mau donasi? 0813-4449-7666 (Gopay/DANA/OVO)
+         Jika tidak ingin donasi bantu Follow Ig aja kak 
+         _instagram.com/hfdzzy__
+    _*HAFIDZ© 2021*_`
+}
+exports.listmenu = listmenu

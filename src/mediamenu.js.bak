@@ -1,0 +1,45 @@
+const mediamenu = (prefix) => { 
+	return `
+
+╭┈─────MEDIA MENU
+╰─❁۪۪
+╰─➤ *${prefix}fb* [link]
+╰─➤ *${prefix}tiktok* [link]
+╰─➤ *${prefix}jadwalTV* [channel]
+╰─➤ *${prefix}lirik* [judul lagu]
+╰─➤ *${prefix}chord* [judul lagu]
+╰─➤ *${prefix}randomkpop*
+╰─➤ *${prefix}tiktokstalk* [username]
+╰─➤ *${prefix}url2img* [link]
+╰─➤ *${prefix}fototiktok* [username]
+╰─➤ *${prefix}map* [kota]
+╰─➤ *${prefix}kbbi* [kamus]
+╰─➤ *${prefix}brainly* [tau sendiri kan]
+╰─➤ *${prefix}infoghitub* 
+╰─➤ *${prefix}play*
+╰─➤ *${prefix}playmp3*
+╰─➤ *${prefix}infogempa*
+╰─➤ *${prefix}artinama [nama]*
+╰─➤ *${prefix}covid [negara]*
+╰─➤ *${prefix}nulis [teks]*
+╰─➤ *${prefix}happymod [apk]*
+╰─➤ *${prefix}quotemaker [|teks|author|theme]*
+╰─➤ *${prefix}resepmasakan [optional]*
+╰─➤ *${prefix}tts [kode bhs] [teks]*
+╰─➤ *${prefix}igstalk [@username]*
+╰─➤ *${prefix}tiktokstalk [username]*
+╰─➤ *${prefix}wiki [query]*
+╰─➤ *${prefix}qrcode [optional]*
+╰─➤ *${prefix}map [optional]*
+╰─➤ *${prefix}instaimg [url]*
+╰─➤ *${prefix}ssweb [linkWeb]*
+╰─➤ *${prefix}shorturl [linkWeb]*
+╰─➤ *${prefix}instavid [url]*
+╰─➤ *${prefix}animesaran*
+╰─➤ *${prefix}randombokep*
+╰─➤ *${prefix}bokep*
+╰─➤ *${prefix}pornhub [query]*
+╭┈─────FEEDZ BOT
+╰─❁۪۪`
+}
+exports.mediamenu = mediamenu
