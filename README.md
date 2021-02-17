@@ -64,32 +64,9 @@ Follow The Steps Below!
 
 ---
 
-## Group
-* <a href="https://chat.whatsapp.com/C1qFWmPm8EVDfKAhAXDvpT"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-
-## Special Thanks To
-* Allah SWT
-
-## Group
+## Github Me
 https://github.com/ZakiGans
-* <a href="https://chat.whatsapp.com/C1qFWmPm8EVDfKAhAXDvpT"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
-## Install
-Follow The Steps Below!
-
-```bash
-> termux-setup-storage
-(after that tap on permission)
-> pkg update -y
-> pkg upgrade -y
-> pkg install git -y
-> git clone https://github.com/ZakiGans/termux-bot-wa
-> cd termux-bot-wa
-> npm cache clear
-> bash install.sh
-> npm audit fix
-> npm start / node index.js
-```
 ## Special Thanks
 
 * Allah SWT
